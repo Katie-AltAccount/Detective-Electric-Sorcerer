@@ -1,2 +1,3 @@
 # Detective-Electric-Sorcerer
-This is a project made to showcase my abilities as both a computer science student/programmer and as an artist. I've had a love for video games since I was little and eventually wanted to compute my own. Now given the chance, I plan to make this game with as much passion as possible.
+Game Summary: In alternate timelines, astounding worlds exist with creatures only found within imagination. Dragons, animal-hybrids, and so much more. A robot from one of these timelines attempts to locate a secret hidden from most of his life, programming, existence, whatever that may be. However, while running towards his goal, said robot ends up being transferred to another dimension similar to modern society today. Can he get back to his old dimension? And what challenges will he face on the way?
+(Most likely ESRP rating for this game: T for teens)
